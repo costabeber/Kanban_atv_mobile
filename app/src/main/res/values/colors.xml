@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+
     <color name="green">#0A21EB</color>
 
-    <color name="color_default">#6F8DE2</color>
-    <color name="color_delete">#D51904</color>
-    <color name="color_details">#763BFF</color>
+    <color name="white">#FFFFFFFF</color>
 
-    <color name="color_status_todo">#1AFFD1</color>
-    <color name="color_status_done">#D504AB</color>
+    <color name="color_default">#395CA0</color>
+    <color name="color_delete">#C73424</color>
+    <color name="color_details">#257640</color>
+
+    <color name="color_status_todo">#1148ED</color>
+    <color name="color_status_done">#841DDB</color>
 </resources>
